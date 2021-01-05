@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Nov 14 14:01:23 2020
+;; Desktop file format version 208
+;; Emacs version 27.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24496 10627 834228 0) (desktop . "208") "Thornton@DESKTOP-UDVDBVC" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f8f8f2") (background-color . "#282a36") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 0) (tab-bar-lines . 0) (height . 88) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (scroll-bar-height . 17) (fullscreen) (z-group) (visibility . t) (display-type . color) (background-mode . dark) (cursor-color . "#ccccc7") (environment) (last-focus-update . t) (frameset--id . "74BF-7E76-DE98-0D08") (frameset--mini t . t) (width . 208) (modeline . t) (unsplittable) (left . 55) (top . 0) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 128) (min-pixel-width . 80) (min-pixel-height-ignore . 96) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 32) (min-pixel-width-safe . 16)) vc (pixel-width . 1687) (pixel-height . 1392) (total-width . 211) (total-height . 87) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (leaf (pixel-width . 1687) (pixel-height . 1008) (total-width . 211) (total-height . 63) (normal-height . 0.7285714285714285) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 1687) (pixel-height . 384) (total-width . 211) (total-height . 24) (normal-height . 0.27142857142857146) (normal-width . 1.0) (buffer "visual-studio-projectile.el" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 77) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/custom-plugins/visual-studio-projectile.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/Thornton/.emacs.d/custom-plugins/visual-studio-projectile.el"
+  "visual-studio-projectile.el"
+  'emacs-lisp-mode
+  '(eldoc-mode helm-ff-cache-mode helm-mode projectile-mode)
+  77
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24496 10627 832531 0) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+

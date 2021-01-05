@@ -1,0 +1,14 @@
+/url/cache
+/ido.last
+/.emacs.desktop
+/auto-save-list
+/custom.el
+/elpa
+/semanticdb
+/transient
+/elpa-*
+*.elc
+/srecode-map.el
+/projectile-bookmarks.eld
+/projectile.cache
+/magithub
