@@ -241,4 +241,3 @@
 
 (provide 'cheatsheet)
 ;;; cheatsheet.el ends here
-
